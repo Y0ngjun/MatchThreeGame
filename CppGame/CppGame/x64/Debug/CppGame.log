@@ -1,2 +1,292 @@
 ﻿  Board.cpp
+  main.cpp
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x7f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x104 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x105 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x80 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x108 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x81 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x109 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x82 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x10b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x9b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x9c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x10c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x9d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x10d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x9e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x10e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xa2 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x110 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xa3 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x115 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xcb 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x192 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xcc 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x193 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xce 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x194 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xcf 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x195 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xd0 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x198 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xd1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x199 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xd5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\main.cpp(1,1): warning C4828: 파일에 0x19a 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xd6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xd7 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xd8 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xda 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xdc 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0xdd 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x111 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x112 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x113 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x114 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x118 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x119 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x11d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x11e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x11f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x120 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x206 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x207 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x20e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x211 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x27e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x281 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x282 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x2eb 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x2ec 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x2ee 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x2ef 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x2f0 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x2f1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x2f8 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x2fa 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x2fb 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x425 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x426 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x427 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x428 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x433 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x434 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x438 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x43b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x43e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x43f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x441 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x442 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x443 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x444 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x484 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x485 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x486 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x4e1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x4e2 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x4e5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x4e6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x4e7 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x533 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x534 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x535 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x536 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x538 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x53a 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x53b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x543 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x544 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x546 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x549 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x54d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x54e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x54f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x550 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5a8 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5ab 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5af 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5b0 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5b1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5b3 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5b4 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5b7 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5b8 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5b9 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5ba 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5c1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5c2 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5c6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5c7 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5c8 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5c9 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5ec 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5f0 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5f1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5f8 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x5f9 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x672 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x673 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x674 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x675 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x678 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x679 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x67d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x682 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x685 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x686 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x687 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6ba 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6bb 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6bc 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6bf 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6c0 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6c1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6c2 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6c4 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6c6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6c7 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6ec 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6ef 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6f3 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6f4 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6f6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6f8 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x6f9 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x71f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x720 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x721 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x722 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x724 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x726 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x727 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x73b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x73c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x73d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x73e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x73f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x741 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x742 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x745 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.cpp(1,1): warning C4828: 파일에 0x747 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x102 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x103 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x104 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x105 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x109 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x10a 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x10b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x10c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x14f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x175 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x176 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x177 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x178 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x17c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x17d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x102 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x103 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x104 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x105 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x109 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x10a 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x10b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x10c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x14f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x175 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x176 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x177 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x178 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x17c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Board.h(1,1): warning C4828: 파일에 0x17d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Consts.h(1,1): warning C4828: 파일에 0x59 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Consts.h(1,1): warning C4828: 파일에 0x5c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Consts.h(1,1): warning C4828: 파일에 0x5e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Consts.h(1,1): warning C4828: 파일에 0x62 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Consts.h(1,1): warning C4828: 파일에 0x63 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Consts.h(1,1): warning C4828: 파일에 0x65 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Consts.h(1,1): warning C4828: 파일에 0x66 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Consts.h(1,1): warning C4828: 파일에 0x67 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Consts.h(1,1): warning C4828: 파일에 0x68 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\4rest\Desktop\Shin\QtGame\CppGame\Consts.h(1,1): warning C4828: 파일에 0x6b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  (소스 파일 'Board.cpp'을(를) 컴파일하는 중)
+  
   CppGame.vcxproj -> C:\Users\4rest\Desktop\Shin\QtGame\CppGame\x64\Debug\CppGame.exe
