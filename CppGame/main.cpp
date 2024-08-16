@@ -1,18 +1,23 @@
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QGraphicsScene>
-#include <QtWidgets/QGraphicsRectItem>
 #include <QtWidgets/QGraphicsView>
+#include <QScreen>
 
-int main(int argc, char *argv[])
+#include "Board.h"
+
+int main(int argc, char* argv[])
 {
-    QApplication a(argc, argv);
+	QApplication a(argc, argv);
+	QScreen* screen = a.primaryScreen();
+	QRect geometry = screen->geometry();
 
-    QGraphicsScene scene;
-    QGraphicsRectItem rect(0, 0, 200, 100);
-    scene.addItem(&rect);
+	QGraphicsScene scene;
+	scene.setSceneRect(geometry);
 
-    QGraphicsView view(&scene);
-    view.showFullScreen();
+	Board board(&scene);
 
-    return a.exec();
+	QGraphicsView view(&scene);
+	view.showFullScreen();
+
+	return a.exec();
 }
