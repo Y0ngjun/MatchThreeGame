@@ -1,9 +1,10 @@
 #pragma once
 
 #include <string>
+
 namespace Consts
 {
-	const std::string paths[]{
+	const std::string paths[]{ // 이미지 파일 절대 경로
 		R"(C:\Users\4rest\Desktop\Shin\QtGame\threeMatchImage\PNG\ico\1.png)",
 		R"(C:\Users\4rest\Desktop\Shin\QtGame\threeMatchImage\PNG\ico\2.png)",
 		R"(C:\Users\4rest\Desktop\Shin\QtGame\threeMatchImage\PNG\ico\3.png)",
@@ -19,7 +20,6 @@ namespace Consts
 		R"(C:\Users\4rest\Desktop\Shin\QtGame\threeMatchImage\PNG\ico\13.png)",
 		R"(C:\Users\4rest\Desktop\Shin\QtGame\threeMatchImage\PNG\ico\14.png)",
 	};
-
 	const int BOARD_LENGTH = 12;
 	const int BOARD_ITEM_SIZE = 60;
 }

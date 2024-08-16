@@ -6,14 +6,14 @@
 
 #include <vector>
 #include <random>
+
 class Board
 {
 private:
 	QGraphicsScene* _scene;
-	QGraphicsRectItem _root;
-
-	std::vector<std::vector<QGraphicsPixmapItem*>> _items;
-	std::random_device _device;
+	QGraphicsRectItem _root; // 보드판 묶음
+	std::vector<std::vector<QGraphicsPixmapItem*>> _items; // item 배열
+	std::random_device _device; // 난수 생성
 	std::mt19937 _gen;
 
 public:
