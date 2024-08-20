@@ -7,12 +7,14 @@
 #include <vector>
 #include <random>
 
-class Board
+#include "Item.h"
+
+class Board : public Item::EventListener // EventListener로 제어하기 위해 인터페이스 상속
 {
 private:
 	QGraphicsScene* _scene;
 	QGraphicsRectItem _root; // 보드판 묶음
-	std::vector<std::vector<QGraphicsPixmapItem*>> _items; // item 배열
+	std::vector<std::vector<Item*>> _items; // item 배열
 	std::random_device _device; // 난수 생성
 	std::mt19937 _gen;
 
@@ -21,6 +23,10 @@ public:
 	~Board();
 	void addItem(int row, int column);
 	void removeItem(int row, int column);
+
+	void moveItem(Item* item, int toRow, int toColumn); // 아이템 위치 이동
+	void exchange(int row0, int column0, int row1, int column1); // 아이템 교환
+	virtual void itemDragEvent(Item* item, Item::Direction dir); // 오버라이드
 };
 
 /*
