@@ -1,2 +1,2 @@
 # QtGame
-QtGame With Cpp
+QtGame with C++
