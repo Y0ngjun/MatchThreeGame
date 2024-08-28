@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|solutionrelative:Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Value.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|solutionrelative:Value.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|solutionrelative:Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|solutionrelative:Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|solutionrelative:Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|solutionrelative:Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Value.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|solutionrelative:Value.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|solutionrelative:Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25C37DE6-7AC3-40CC-8F4C-9534EB1D9312}|CppGame.vcxproj|C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Board.cpp",
               "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Board.cpp",
               "RelativeDocumentMoniker": "Board.cpp",
               "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Board.cpp",
               "RelativeToolTip": "Board.cpp",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-16T12:26:06.556Z",
               "IsPinned": true,
@@ -81,42 +81,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Score.cpp",
               "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Score.cpp",
               "RelativeDocumentMoniker": "Score.cpp",
               "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Score.cpp",
               "RelativeToolTip": "Score.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-28T08:13:16.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T08:13:16.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Score.h",
               "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Score.h",
               "RelativeDocumentMoniker": "Score.h",
               "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Score.h",
               "RelativeToolTip": "Score.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-28T08:11:33.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T08:11:33.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Value.h",
               "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Value.h",
               "RelativeDocumentMoniker": "Value.h",
               "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Value.h",
               "RelativeToolTip": "Value.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-28T07:58:40.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T07:58:40.115Z"
             },
             {
               "$type": "Document",
@@ -128,12 +125,11 @@
               "RelativeToolTip": "Item.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-20T07:28:35.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T07:28:35.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Board.h",
               "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Board.h",
               "RelativeDocumentMoniker": "Board.h",
@@ -141,8 +137,7 @@
               "RelativeToolTip": "Board.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T12:25:12.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T12:25:12.778Z"
             },
             {
               "$type": "Document",
@@ -154,21 +149,19 @@
               "RelativeToolTip": "Consts.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T12:22:01.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T12:22:01.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T10:58:25.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T10:58:25.462Z"
             }
           ]
         }

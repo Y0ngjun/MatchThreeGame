@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Board.cpp",
               "ToolTip": "C:\\Users\\4rest\\Desktop\\Shin\\QtGame\\CppGame\\Board.cpp",
               "RelativeToolTip": "Board.cpp",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-16T12:26:06.556Z",
               "IsPinned": true,
@@ -89,8 +89,7 @@
               "RelativeToolTip": "Score.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-28T08:13:16.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T08:13:16.802Z"
             },
             {
               "$type": "Document",
@@ -102,8 +101,7 @@
               "RelativeToolTip": "Score.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-28T08:11:33.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T08:11:33.115Z"
             },
             {
               "$type": "Document",
@@ -115,8 +113,7 @@
               "RelativeToolTip": "Value.h",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-28T07:58:40.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T07:58:40.115Z"
             },
             {
               "$type": "Document",
@@ -128,8 +125,7 @@
               "RelativeToolTip": "Item.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-20T07:28:35.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T07:28:35.502Z"
             },
             {
               "$type": "Document",
@@ -141,8 +137,7 @@
               "RelativeToolTip": "Board.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T12:25:12.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T12:25:12.778Z"
             },
             {
               "$type": "Document",
@@ -154,8 +149,7 @@
               "RelativeToolTip": "Consts.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T12:22:01.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T12:22:01.184Z"
             },
             {
               "$type": "Document",
@@ -167,8 +161,7 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T10:58:25.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T10:58:25.462Z"
             }
           ]
         }
