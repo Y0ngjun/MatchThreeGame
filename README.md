@@ -1,6 +1,5 @@
-# QtGame
-QtGame with C++
+# MatchThreeGame
 
-match 3 game
+Made using Qt and C++
 
-2024-08-28 완성
+2024-08-28 Completed
