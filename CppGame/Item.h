@@ -3,7 +3,7 @@
 #include <string>
 #include <QtWidgets/QGraphicsPixmapItem>
 
-class Item : public QGraphicsPixmapItem
+class Item : public QGraphicsPixmapItem, public QObject
 {
 	class EventListener; // 전방선언
 
@@ -16,6 +16,9 @@ public:
 
 	void setRow(int row); // Setter
 	void setColumn(int column);
+
+	void moveTo(double toX, double toY);
+	void moveTo(Item* other, bool canRevert);
 
 protected:
 	virtual void mousePressEvent(QGraphicsSceneMouseEvent* event) override; // 마우스 누를 때 호출
@@ -41,5 +44,6 @@ public:
 	{
 	public:
 		virtual void itemDragEvent(Item* item, Item::Direction dir) = 0;
+		virtual void itemMoveFinished(Item* item0, Item* item1, bool canRevert) = 0;
 	};
 };

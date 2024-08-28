@@ -22,4 +22,6 @@ namespace Consts
 	};
 	const int BOARD_LENGTH = 12;
 	const int BOARD_ITEM_SIZE = 60;
+	const int MAX_ITEM_TYPES = 5;
+	const int ANIMATION_TIME = 200;
 }

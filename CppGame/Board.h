@@ -6,8 +6,12 @@
 
 #include <vector>
 #include <random>
+#include <set>
 
 #include "Item.h"
+
+using MatchPair = std::pair<int, int>; // 앨리어스
+using MatchSet = std::set<MatchPair>;
 
 class Board : public Item::EventListener // EventListener로 제어하기 위해 인터페이스 상속
 {
@@ -18,15 +22,27 @@ private:
 	std::random_device _device; // 난수 생성
 	std::mt19937 _gen;
 
+	int _moveCount;
+
 public:
 	Board(QGraphicsScene* scene);
 	~Board();
 	void addItem(int row, int column);
 	void removeItem(int row, int column);
 
+	void moveItem(int fromRow, int fromColumn, int toRow, int toColumn);
 	void moveItem(Item* item, int toRow, int toColumn); // 아이템 위치 이동
-	void exchange(int row0, int column0, int row1, int column1); // 아이템 교환
-	virtual void itemDragEvent(Item* item, Item::Direction dir); // 오버라이드
+
+	void exchangeItems(int row0, int column0, int row1, int column1, bool canRevert); // 아이템 교환
+	bool refresh();
+	MatchSet matchedItems() const;
+	MatchSet matchedItems(int row, int column) const;
+	MatchSet matchedItemsHorizontal(int row, int column) const;
+	MatchSet matchedItemsVertical(int row, int column) const;
+
+
+	virtual void itemDragEvent(Item* item, Item::Direction dir) override; // 오버라이딩
+	virtual void itemMoveFinished(Item* item0, Item* item1, bool canRevert) override; // 오버라이딩
 };
 
 /*
