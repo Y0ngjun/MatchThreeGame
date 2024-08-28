@@ -4,8 +4,9 @@
 #include "Consts.h"
 #include "Item.h"
 
-Board::Board(QGraphicsScene* scene)
+Board::Board(QGraphicsScene* scene, Values* values)
 	: _scene(scene) // scene 설정
+	, _values(values) // 점수 저장
 	, _gen(_device()) // 난수 생성
 	, _moveCount(0)
 {
@@ -15,6 +16,8 @@ Board::Board(QGraphicsScene* scene)
 		- Consts::BOARD_ITEM_SIZE * Consts::BOARD_LENGTH / 2);
 	_root.setY(_scene->sceneRect().height() / 2
 		- Consts::BOARD_ITEM_SIZE * Consts::BOARD_LENGTH / 2);
+
+	_values->score.set(0); // 점수 초기화
 
 	for (int row = 0; row < Consts::BOARD_LENGTH; ++row) // vector에 item 넣기
 	{
@@ -114,6 +117,8 @@ bool Board::refresh()
 	for (const auto& pair : matched) // 3개 이상이라면 아이템 제거
 	{
 		removeItem(pair.first, pair.second);
+
+		_values->score.set(_values->score.get() + 10); // 점수 증가
 	}
 
 	// 빈곳에 아이템 내리기

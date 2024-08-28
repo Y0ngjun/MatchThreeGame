@@ -92,6 +92,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Score.cpp" />
     <QtUic Include="CppGame.ui" />
     <ClCompile Include="Board.cpp" />
     <ClCompile Include="Item.cpp" />
@@ -101,6 +102,8 @@
     <ClInclude Include="Board.h" />
     <ClInclude Include="Consts.h" />
     <ClInclude Include="Item.h" />
+    <ClInclude Include="Score.h" />
+    <ClInclude Include="Value.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">

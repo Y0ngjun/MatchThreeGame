@@ -3,12 +3,14 @@
 #include <QtWidgets/QGraphicsScene>
 #include <QtWidgets/QGraphicsPixmapItem>
 #include <QtWidgets/QGraphicsRectItem>
+#include <QtWidgets/QGraphicsTextItem>
 
 #include <vector>
 #include <random>
 #include <set>
 
 #include "Item.h"
+#include "Value.h"
 
 using MatchPair = std::pair<int, int>; // 앨리어스
 using MatchSet = std::set<MatchPair>;
@@ -17,7 +19,9 @@ class Board : public Item::EventListener // EventListener로 제어하기 위해 인터페
 {
 private:
 	QGraphicsScene* _scene;
+	Values* _values;
 	QGraphicsRectItem _root; // 보드판 묶음
+
 	std::vector<std::vector<Item*>> _items; // item 배열
 	std::random_device _device; // 난수 생성
 	std::mt19937 _gen;
@@ -25,7 +29,7 @@ private:
 	int _moveCount;
 
 public:
-	Board(QGraphicsScene* scene);
+	Board(QGraphicsScene* scene, Values* values);
 	~Board();
 	void addItem(int row, int column);
 	void removeItem(int row, int column);
